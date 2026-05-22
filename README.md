@@ -140,23 +140,6 @@ Deploy contracts:
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
----
-
-# Screenshots
-
-Add your project screenshots here.
-
-```bash
-/screenshots
-```
-
-Suggested screenshots:
-
-* Home Page
-* NFT Minting Page
-* Marketplace Page
-* Wallet Connection
-* NFT Details Page
 
 ---
 
